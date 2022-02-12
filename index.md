@@ -29,7 +29,7 @@
                         <li class="nav-item"><a class="nav-link" href="#solution">Solução</a></li>
                         <li class="nav-item"><a class="nav-link" href="#services">Serviços</a></li>
                         <!-- <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li> -->
-                        <li class="nav-item"><a class="nav-link" href="#team">Equipe</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#me">Quem sou eu?</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">Contato</a></li>
                     </ul>
                 </div>
@@ -140,7 +140,7 @@
                 </div>
             </div>
         </section>
-        <section class="page-section bg-dark text-white" id="team">
+        <section class="page-section bg-dark text-white" id="me">
             <div class="container px-4 px-lg-5 text-center">
                 <h2 class="mb-4">Quem sou eu?</h2>
                 <div class="row justify-content-center">
@@ -171,7 +171,7 @@
                     <div class="col-lg-8 col-xl-6 text-center">
                         <h2 class="mt-0">Contato</h2>
                         <hr class="divider" />
-                        <p class="text-muted mb-5">Entre em contato conosco que teremos o prazer em atendê-lo!</p>
+                        <p class="text-muted mb-5">Entre em contato agora mesmo será um prazer em atendê-lo!</p>
                     </div>
                 </div>
                 <div class="row gx-4 gx-lg-5 justify-content-center">
