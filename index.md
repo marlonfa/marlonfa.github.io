@@ -26,7 +26,7 @@
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto my-2 my-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="#about">Sobre</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#solution">Solução</a></li>
                         <li class="nav-item"><a class="nav-link" href="#services">Serviços</a></li>
                         <!-- <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li> -->
                         <li class="nav-item"><a class="nav-link" href="#team">Equipe</a></li>
@@ -44,23 +44,33 @@
                         <hr class="divider" />
                     </div>
                     <div class="col-lg-8 align-self-baseline">
-                        <p class="text-white-75 mb-5">Problemas com computadores, notebooks, rede, servidores ou até segurança cibernética? Nós resolvemos para você!</p>
+                        <p class="text-white-75 mb-5">
+                            Desenvolvimento de aplicativos e aplicações web, consultoria de segurança cibernética, manutenção de computadores e notebooks, tudo isso e mais em um mesmo lugar!
+                        </p>
                         <a class="btn btn-primary btn-xl" href="#about">Saiba mais</a>
                     </div>
                 </div>
             </div>
         </header>
         <!-- About-->
-        <section class="page-section bg-primary" id="about">
+        <section class="page-section bg-primary" id="solution">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8 text-center">
                         <h2 class="text-white mt-0">A solução para seus problemas tecnológicos está aqui!</h2>
                         <hr class="divider divider-light" />
                         <p class="text-white-75 mb-4">
-                            Manutenção de computadores e notebooks, instalação e configuração de impressoras, rede sem fio e com fio, configuração de servidores, desenvolvimento de aplicativos e aplicações Web você e sua empresa encontra no mesmo lugar.
+                            <i class="bi bi-arrow-right-circle"></i> Precisa de um sistema para gerenciar sua empresa, agilizar rotinas ou até mesmo um aplicativo para seus clientes? 
+                            <br />
+                            <i class="bi bi-arrow-right-circle"></i> Um site para você ou sua empresa? 
+                            <br />
+                            <i class="bi bi-arrow-right-circle"></i> Está com receio da sua empresa ser invadida por ataques hackers?
+                            <br />
+                            <i class="bi bi-arrow-right-circle"></i> Precisa configurar algum servidor na nuvem?
+                            <br />
+                            <i class="bi bi-arrow-right-circle"></i> Precisa configurar uma rede com ou sem fio de forma profissional com qualidade e segurança?
                         </p>
-                        <a class="btn btn-light btn-xl" href="#services">Nossos serviços</a>
+                        <a class="btn btn-light btn-xl" href="#services">Confira</a>
                     </div>
                 </div>
             </div>
@@ -68,7 +78,7 @@
         <!-- Services-->
         <section class="page-section" id="services">
             <div class="container px-4 px-lg-5">
-                <h2 class="text-center mt-0">Nossos Serviços</h2>
+                <h2 class="text-center mt-0">Serviços</h2>
                 <hr class="divider" />
                 <div class="row gx-4 gx-lg-5">
                     <div class="col-lg-3 col-md-6 text-center">
@@ -132,21 +142,21 @@
         </section>
         <section class="page-section bg-dark text-white" id="team">
             <div class="container px-4 px-lg-5 text-center">
-                <h2 class="mb-4">Equipe</h2>
+                <h2 class="mb-4">Quem sou eu?</h2>
                 <div class="row justify-content-center">
                     <div class="col-lg-4 col-md-6">
-                        <img class="img-thumbnail" src="assets/img/team/marlon.jpg" alt="Foto de Marlon Fernandes Antonio" />
+                        <img class="img-thumbnail" src="assets/img/team/marlon_perfil.png" alt="Foto de Marlon Fernandes Antonio" />
                     </div>
-                    <div class="col-lg-8 col-md-6">
+                    <div class="col-lg-8 col-md-6" style="text-align: left;">
                         <p>
-                            Marlon Fernandes Antonio 
+                            Olá, me chamo Marlon Fernandes Antonio. 
                         </p>
                         <p>
-                            Iniciou com o ramo da informática realizando manutenção de computadores e notebooks. <br />
-                            Formou-se pela Universidade Tecnológica Federal do Paraná (UTFPR) em Sistemas para Internet. <br />
-                            Com grande experiência em desenvolvimento de sistemas atuou em vários projetos de segurança cibernética pela Rede Nacional de Ensino e Pesquisa (RNP) juntamente
+                            Iniciei com o ramo da informática realizando manutenção de computadores e notebooks. <br />
+                            Me formei pela Universidade Tecnológica Federal do Paraná (UTFPR) no curso Sistemas para Internet. <br />
+                            Tenho grande experiência em desenvolvimento de sistemas e atuei em vários projetos de segurança cibernética pela Rede Nacional de Ensino e Pesquisa (RNP) juntamente
                             com o Centro de Atendimento a Incidentes de Segurança (CAIS). <br />
-                            Atualmente está se especializando ainda mais no desenvolvimento de aplicações Web e aplicativos mobile.
+                            Hoje estou auxiliando pessoas e empresas neste mundo vasto da tecnologia com consultorias e prestação de serviços.
                         </p>
                     </div>
                 </div>
