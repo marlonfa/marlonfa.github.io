@@ -47,7 +47,7 @@
                         <p class="text-white-75 mb-5">
                             Desenvolvimento de aplicativos e aplicações web, consultoria de segurança cibernética, manutenção de computadores e notebooks, tudo isso e mais em um mesmo lugar!
                         </p>
-                        <a class="btn btn-primary btn-xl" href="#about">Saiba mais</a>
+                        <a class="btn btn-primary btn-xl" href="#solution">Saiba mais</a>
                     </div>
                 </div>
             </div>
@@ -176,10 +176,10 @@
                 </div>
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-4 text-center mb-5 mb-lg-0">
-                        <a class="link" href="http://api.whatsapp.com/send?1=pt_BR&phone=5518996532529" target="_blank">
+                        <a class="link" href="http://api.whatsapp.com/send?1=pt_BR&phone=5518996428656" target="_blank">
                             <i class="bi-phone fs-2 mb-3 text-muted"></i>
                             <i class="bi-whatsapp fs-2 mb-3 text-muted"></i>
-                            <div>(18) 99653-2529</div>
+                            <div>(18) 99642-8656</div>
                         </a>
                     </div>
                 </div>
