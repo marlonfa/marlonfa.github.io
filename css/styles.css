@@ -4318,6 +4318,17 @@ textarea.form-control-lg {
     padding: 0;
     overflow-y: visible;
   }
+
+  .logo{
+    background-image: url(../assets/img/logos/logo_white_80.png);
+    background-repeat: no-repeat;
+    background-size: 71px 80px;
+    height: 80px;
+  }
+
+  .st{
+    margin-left: 40px;
+  }
 }
 @media (min-width: 1200px) {
   .navbar-expand-xl {
@@ -11379,14 +11390,6 @@ hr.divider-light {
   font-weight: 700;
   color: #212529;
 }
-/* nao deu certo */
-#mainNav .logo{
-  background-image: url(../assets/img/logos/logo_black_60.png);
-  background-repeat: no-repeat;
-  background-size: 54px 61px;
-  height: 61px;
-  margin: 10px;
-}
 
 #mainNav .navbar-nav .nav-item .nav-link {
   color: #6c757d;
@@ -11448,6 +11451,10 @@ hr.divider-light {
     background-repeat: no-repeat;
     background-size: 71px 80px;
     height: 80px;
+  }
+
+  #mainNav.navbar-shrink .st{
+    margin-left: 40px;
   }
 }
 
@@ -11520,21 +11527,17 @@ header.masthead h1, header.masthead .h1 {
   opacity: 1;
 }
 
-.logo{
-  background-image: url(../assets/img/logos/logo_white_80.png);
-  background-repeat: no-repeat;
-  background-size: 71px 80px;
-  height: 80px;
-
-}
-
-.st{
-  margin-left: 40px;
-}
-
-/* @media (max-width: 575.98px) {
-  .logo{
-    width: 60px;
-    margin-bottom: 5px;
+@media(max-width: 990px){
+  #mainNav .logo{
+    background-image: url(../assets/img/logos/logo_black_60.png);
+    background-repeat: no-repeat;
+    background-size: 54px 61px;
+    margin: 20px;
   }
-} */
+  
+  #mainNav .st{
+    margin-left: 40px;
+    margin-bottom: 25px;
+  }
+  
+}
