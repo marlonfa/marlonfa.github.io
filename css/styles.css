@@ -4322,7 +4322,7 @@ textarea.form-control-lg {
   .logo{
     background-image: url(../assets/img/logos/logo_white_80.png);
     background-repeat: no-repeat;
-    background-size: 71px 80px;
+    background-size: 322px 79px;
     height: 80px;
   }
 
@@ -11449,7 +11449,7 @@ hr.divider-light {
   #mainNav.navbar-shrink .logo{
     background-image: url(../assets/img/logos/logo_black_80.png);
     background-repeat: no-repeat;
-    background-size: 71px 80px;
+    background-size: 322px 79px;
     height: 80px;
   }
 
@@ -11531,13 +11531,21 @@ header.masthead h1, header.masthead .h1 {
   #mainNav .logo{
     background-image: url(../assets/img/logos/logo_black_60.png);
     background-repeat: no-repeat;
-    background-size: 54px 61px;
-    margin: 20px;
+    background-size: 151px 61px;
   }
   
-  #mainNav .st{
-    margin-left: 40px;
-    margin-bottom: 25px;
+  #mainNav .span_logo{
+    margin-bottom: 65px;
+  }
+  
+}
+
+@media(max-width: 575px){
+  #mainNav .logo{
+    background-image: url(../assets/img/logos/logo_black_60.png);
+    background-repeat: no-repeat;
+    background-size: 151px 61px;
+    margin-left: 10px;
   }
   
 }
